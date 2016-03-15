@@ -23,11 +23,11 @@
 
 #总结
 
-- 完成时间：
-- 学习了：
-- 实现了：
-- DEMO：
-- 博文：
+- 完成时间：2016/3/15
+- 学习了：居中布局及定位
+- 实现了：水平垂直居中的 div，及两个 1/4 大小，分别位于两角的圆
+- DEMO：[地址](http://nitta-honoka.github.io/BaiduIFE-Task01-Center-Layout/)
+- 博文：[总结CSS居中的多种方法](http://www.cnblogs.com/honoka/p/5146953.html)
 
 #联系我
 
