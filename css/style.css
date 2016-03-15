@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: hidden;
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    background-color: #ccc;
+}
+.radius {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #fc0;
+}
+.radius:first-of-type {
+    top: -25px;
+    left: -25px;
+}
+.radius:last-of-type {
+    bottom: -25px;
+    right: -25px;
+}
