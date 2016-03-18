@@ -23,11 +23,11 @@
 
 #总结
 
-- 完成时间：
-- 学习了：
-- 实现了：
-- DEMO：
-- 博文：
+- 完成时间：2016/3/15
+- 学习了：居中布局及绝对定位
+- 实现了：居中布局的容器，两角各有四分之一个圆
+- DEMO：[地址](http://nitta-honoka.github.io/BaiduIFE-Task01-Center-Layout/)
+- 博文：[总结CSS居中的多种方法](http://www.cnblogs.com/honoka/p/5146953.html)
 
 #联系我
 
